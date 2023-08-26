@@ -238,7 +238,7 @@ source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # Functions
 function mkt(){
-	mkdir {Scanning, Info, Xploits, Descargas, Otros}
+	mkdir (Scanning, Info, Xploits, Descargas, Otros)
 }
 
 # Extract nmap information
