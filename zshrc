@@ -235,11 +235,10 @@ alias vim='nvim'
 # Plugins
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/share/zsh-sudo/sudo.plugin.zsh
 
 # Functions
 function mkt(){
-	mkdir {nmap,content,exploits,scripts}
+	mkdir {Scanning, Info, Xploits, Descargas, Otros}
 }
 
 # Extract nmap information
